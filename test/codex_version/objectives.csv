@@ -1,0 +1,50 @@
+source_pdf,objective
+CSCI241-Fall2026-Deverick.pdf,"Represent and manipulate data using arrays, linked lists, stacks, queues, trees, and hash tables."
+CSCI241-Fall2026-Deverick.pdf,Explain and compare data structure operations and their performance.
+CSCI241-Fall2026-Deverick.pdf,Implement sorting algorithms and analyze their performance.
+CSCI241-Fall2026-Deverick.pdf,Apply recursion and software engineering patterns to robust programs.
+CSCI241-Fall2026-Deverick.pdf,Select data structures and algorithms to meet problem requirements.
+CSCI241-Fall2026-Deverick.pdf,Test and evaluate programs and data structure implementations.
+CSCI241-Fall2026-Deverick.pdf,"Explain trees, heaps, priority queues, and hashing."
+CSci141-Fall2026-Zhang.pdf,Use Jupyter notebooks and Python development tools.
+CSci141-Fall2026-Zhang.pdf,Read Python documentation and distinguish syntax from algorithms.
+CSci141-Fall2026-Zhang.pdf,"Write programs with variables, data types, functions, conditionals, and loops."
+CSci141-Fall2026-Zhang.pdf,"Test and debug programs, including edge cases."
+CSci141-Fall2026-Zhang.pdf,"Process text and files using strings, lists, sets, and dictionaries."
+CSci141-Fall2026-Zhang.pdf,Create and inspect pandas data frames and data visualizations.
+CSci141-Fall2026-Zhang.pdf,Design custom object types and object-oriented programs.
+CSci141-Fall2026-Zhang.pdf,Critically evaluate AI suggestions and tests against course requirements.
+DATA305_Syllabus_F26_v5.pdf,"Differentiate chatbots, AI assistants, and AI agents for system design."
+DATA305_Syllabus_F26_v5.pdf,Explain how LLM probabilities and hyperparameters affect outputs.
+DATA305_Syllabus_F26_v5.pdf,Build asynchronous agent workflows with validated outputs.
+DATA305_Syllabus_F26_v5.pdf,Compare agent design patterns.
+DATA305_Syllabus_F26_v5.pdf,Use built-in tools and custom functions with LLMs and agents.
+DATA305_Syllabus_F26_v5.pdf,Create agents with industry-standard frameworks.
+DATA305_Syllabus_F26_v5.pdf,"Evaluate LLM and agent risks, accountability, and security."
+DATA305_Syllabus_F26_v5.pdf,Explain how RAG supports long-term memory.
+DATA305_Syllabus_F26_v5.pdf,Develop processes to solve real-world problems.
+DATA_101_F26.pdf,Apply computational thinking and data reasoning to solve problems.
+DATA_101_F26.pdf,Write Python programs using fundamental programming concepts.
+DATA_101_F26.pdf,Use numerical and tabular data tools to process information.
+DATA_101_F26.pdf,Collaborate with generative AI responsibly while testing its output.
+DATA_101_F26.pdf,Design and build an original AI-assisted application.
+DATA_201_F26.pdf,Prepare and clean data for analysis.
+DATA_201_F26.pdf,Explore data with statistics and visualization.
+DATA_201_F26.pdf,Apply supervised and unsupervised machine learning methods.
+DATA_201_F26.pdf,"Select, train, test, and evaluate models with attention to generalization."
+DATA_201_F26.pdf,Use a data science workflow to solve practical problems.
+DATA_209_Syllabus_2026Spring.pdf,Represent data as vectors and explain similarity and distance geometrically.
+DATA_209_Syllabus_2026Spring.pdf,"Apply matrices to transformations, projections, and eigenvector problems."
+DATA_209_Syllabus_2026Spring.pdf,Use matrix decompositions to understand data structure.
+DATA_209_Syllabus_2026Spring.pdf,"Compute and interpret derivatives, integrals, and optimization numerically."
+DATA_209_Syllabus_2026Spring.pdf,Model changing systems with differential equations and gradient-based optimization.
+DATA_440_Syllabus_2026Fall.pdf,Define a problem and develop a solution using data science skills.
+DATA_440_Syllabus_2026Fall.pdf,Test peers’ code and documentation and provide feedback.
+DATA_440_Syllabus_2026Fall.pdf,Build a reusable code library with documentation for nonexpert users.
+DATA_440_Syllabus_2026Fall.pdf,Present project work clearly to a general audience.
+Data_210_Syllabus_Fall_2026_Section_01.pdf,"Explain essential statistical concepts, theories, and techniques for using data."
+Data_210_Syllabus_Fall_2026_Section_01.pdf,Apply statistical and research methods and interpret their results.
+Data_210_Syllabus_Fall_2026_Section_01.pdf,Analyze real-world problems faced by contemporary decision-makers.
+Data_301_Syllabus_Spring_2026.pdf,"Explain key machine learning concepts, methods, and uses of data."
+Data_301_Syllabus_Spring_2026.pdf,Apply machine learning methods and interpret their results.
+Data_301_Syllabus_Spring_2026.pdf,Address real-world problems faced by contemporary decision-makers.
